@@ -2,6 +2,8 @@ import os
 import itertools
 import logging
 import json
+import argparse
+import sys
 from contextlib import ExitStack
 
 from marshmallow import ValidationError
@@ -14,22 +16,27 @@ from src.utils import LANGUAGE_NT
 
 logger = logging.getLogger()
 logger.setLevel(logging.DEBUG)
+parser = argparse.ArgumentParser()
+parser.add_argument('data_path',
+                    metavar='data_path',
+                    type=str)
+args = parser.parse_args()
 
+data_path = args.data_path
 
 validator = Validator()
 
-
 current_dir = os.path.abspath(os.getcwd())
-language_file = os.path.join(current_dir, 'data/raw.csv')
-en_file = os.path.join(current_dir, 'output/en.json')
-vi_file = os.path.join(current_dir, 'output/vi.json')
+language_file = os.path.join(current_dir, data_path)
+en_file = 'output/en.json'
+vi_file = 'output/vi.json'
 
 
 dict_en = dict()
 dict_vi = dict()
 
 
-for line in itertools.islice(read_file(language_file), 3):
+for line in read_file(language_file):
     temp = validator.dump(LANGUAGE_NT(*line))
     try:
         obj = validator.load(temp)

@@ -8,8 +8,8 @@ from src.models.language import Language
 
 
 class Validator(Schema):
-    vietnamese = fields.Str(validate=validate.Length(min=1), required=True, )
-    english = fields.Str(required=True)
+    vietnamese = fields.Str(validate=validate.Length(min=1), required=True)
+    english = fields.Str(validate=validate.Length(min=1), required=True)
 
     class Meta:
         strict = True
