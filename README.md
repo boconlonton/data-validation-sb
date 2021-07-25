@@ -1,5 +1,10 @@
 # data-validation-sb
 
-#### Command
+### Execution step
 
+```commandline
+mkdir data && mkdir output
+```
+```commandline
 python3 app.py [data_path]
+```
