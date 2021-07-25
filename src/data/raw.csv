@@ -1,0 +1,145 @@
+EN,VI,Page / Screen
+About Me,,Frame 20
+Academic Title,Chức danh giảng dạy,User Info
+Account Setting,Cài đặt tài khoản,1.1.3 Dropdown profile
+ADD,THÊM,"2.1 Org Structure, 3.2 Education"
+Add Award,Thêm Giải Thưởng,Add Award
+Add Certification,Thêm Chứng Chỉ,Add Certification
+Add Department,Thêm Đơn Vị,2.1 Org Structure
+Add Education,Thêm Bằng Cấp,Add Education
+Add Working Experience,Thêm Kinh Nghiệm Làm Việc,Add Experience
+Add User,Thêm Người Dùng,Users Page/ Add User
+Additional Details,Thông tin chi tiết,User Info
+Address,Địa chỉ,Personal Info Popup
+Advanced Search,Tìm kiếm nâng cao,1.1.4 Click Directory
+All,Tất cả,3.1 Users
+Award Name,Tên giải thưởng,Add Award
+Awards,Giải Thưởng,3.2 Education
+Birthplace,Nơi sinh,"Frame 20, 3.6 Personal"
+Cancel,Huỷ bỏ,Frame 27
+Certification Name,Tên Chứng Chỉ,Add Certification
+Certifications,Chứng Chỉ,3.2 Education
+Citi/Province,Thành phố/Tỉnh,Personal Info Popup
+Communist Party,Đảng CSVN,3.6 Personal
+Company Name,Tên Công Ty,Add Experience
+Company Website,Website Công Ty,Add Experience
+Country,Quốc Gia,Add Education
+Create one!,Tạo tài khoản mới,Sign in with MS Page
+Curriculum Vitae,Sơ Yếu Lý Lịch,3.6 Personal
+Dark,Tối,1.1.3 Dropdown profile
+Dashboard,Dashboard,1.1.2 Sidebar extend
+Data Migration,Chuyển dữ liệu,1.1.2 Sidebar extend
+Degree,Bằng Cấp,Users Page/User Info/Add Education
+Delete,Xoá,2.1 Org Structure
+Department,Đơn Vị,"3.1 Users, Frame 20"
+Department Name,Tên Đơn Vị,Frame 27
+Description,Mô tả,Frame 27
+District,Quận/Huyện,Personal Info Popup
+Directory,Danh Bạ,1.1.2 Sidebar extend
+DOB,Ngày Sinh,Frame 20
+Download,Tải xuống,3.6 Personal
+Drag and drop an file here or click,Nhấn vào đây để gửi tập tin,Personal Info Popup
+Edit,Sửa,2.1 Org Structure
+Edit Additional Details,Chỉnh Sửa Thông Tin Chi Tiết,Additional Detail Popup
+Edit Department,Chỉnh Sửa Đơn Vị,Frame 27
+Edit Personal Info,Chỉnh Sửa Thông Tin Cá Nhân,Personal Info Popup
+Edit User,Chỉnh Sửa Người Dùng,Frame 20
+Education,Trình độ học vấn,3.2 Education
+"""Education is the ability listen to almost anything without losing your temper or your self-confidence."" - Robert Frost",(tìm câu tương đương trong Edu),1.1.1 Dashboard
+Email,Email,"0.1 Login page, 3.1 Users"
+Employment Contract,Loại HĐLĐ,3.2 Education
+End time,Thời gian kết thúc,
+End Working Date,Ngày Nghỉ Việc,Frame 20
+English,Anh,1.1.3 Dropdown profile
+Enter your credentials to access your account,Vui lòng nhập email và mật khẩu,0.1 Login page
+Enter your email,Email,Login
+Enter your password,Mật khẩu,Login
+Entry Date,Ngày kết nạp,
+Ethnics,Dân tộc,3.6 Personal
+Expired Date,Ngày hết hạn,Add Certification
+File Name,Tên tập tin,3.6 Personal
+File should be .pdf or .doc,Định dạng .pdf hoặc .doc,Personal Info Popup
+First Name,Tên,Frame 20
+Gender,Giới tính,Frame 20
+General,Thông tin chung,3.6 Personal
+Good Afternoon,Chào buổi sáng,1.1.1 Dashboard
+Good Evening,Chào buổi chiều,1.1.1 Dashboard
+Good Morning,Chào buổi tối,1.1.1 Dashboard
+GPA,GPA,Add Education
+Government ID,Số Căn cước công dân,3.6 Personal
+Help,Trợ giúp,1.1.2 Sidebar Extend
+Hometown,Quê Quán,Frame 20
+HR Info,Thông tin nhân sự,3.2 Education
+Issued Date,Ngày Cấp,3.6 Personal
+Issued Place,Nơi Cấp,3.6 Personal
+Issuer,Đơn vị cấp,Add Certification/Add Award
+Labor Union,Công Đoàn,3.6 Personal
+Languages,Ngôn ngữ,1.1.3 Dropdown profile
+Last Name,Họ,Frame 20
+Light,Sáng,1.1.3 Dropdown profile
+Logout,Đăng Xuất,1.1.3 Dropdown profile
+Mailing Address,Chỗ ở hiện tại,Personal Info
+Major,Chuyên Ngành,Add Education
+Manager,Quản Lý,"2.1 Org Structure, Frame 27"
+Members,Thành viên,Organization Structure
+Middle Name,Tên đệm,Frame 20
+Move,Chuyển,Move Member
+Move Member,Chuyển thành viên,Move Member
+Mr.,Anh,1.1.2 Sidebar Extend
+Ms.,Chị,1.1.2 Sidebar Extend
+Mr.,Thầy,1.1.2 Sidebar Extend
+Ms.,Cô,1.1.2 Sidebar Extend
+My profile,Hồ sơ của tôi,1.1.3 Dropdown profile
+Name,Tên,2.1 Org Structure; 3.1 Users
+No.,STT,3.1 Users
+No account?,Chưa có tài khoản?,Sign in with MS Page
+OK,Đồng Ý,Frame 27
+Others,Khác,3.6 Personal
+or Sign in with,hoặc đăng nhập với,0.1 Login page
+Organization Structure,Cấu trúc tổ chức,1.1.4 Click Directory
+Passport ID,Số hộ chiếu,Personal Info
+Password,Mật khẩu,0.1 Login page
+Parent Department,Trực thuộc,Frame 27
+Permanent Address,Địa chỉ thường trú,3.6 Personal
+Permission,Phân Quyền,Home Page
+Permission Profile,Hồ Sơ Phân Quyền,Frame 20
+Personal Documents,Giấy tờ cá nhân,3.6 Personal
+Personal Email,Email cá nhân,3.6 Personal
+Personal Info,Thông tin cá nhân,3.2 Education
+Phone,SĐT,"3.1 Users, Frame 20"
+Please input,Điền thông tin,Frame 20
+Quantity,Số Lượng,2.1 Org Structure
+Religion,Tôn giáo,3.6 Personal
+Roles,Vị trí công việc,Add Experience
+Same as permanent address,Giống địa chỉ thường trú,Personal Info Popup
+School Name,Tên Trường,Add Education
+Search,Tìm kiếm,1.1.1 Dashboard; Home Page/Organization Structure
+Select,Chọn,Personal Info Popup
+Setting,Cài đặt,1.1.2 Sidebar Extend
+Sign in,Đăng nhập,0.1.Login page;  /Sign in with MS Page
+Sign in options,Lựa chọn đăng nhập,Sign in with MS Page
+Sign in to continue,Đăng nhập để tiếp tục,0.1 Login page
+Sign in with Microsoft,Đăng nhập với Microsoft,0.1 Login page
+Social Security Code,Mã BHXH,3.6 Personal
+Staff,Nhân Viên,3.1 Users
+Staff ID,Mã Nhân Viên,Frame 20
+Start time,Thời gian bắt đầu,
+Start Working Date,Ngày Vào Làm,Additional Detail Popup/Add Experience
+Status,Trạng Thái,Frame 20
+Tax Code,Mã số thuế,3.6 Personal
+Teacher,Giảng viên,3.1 Users
+Themes,Giao diện,1.1.3 Dropdown Profile
+Title,Chức vụ,"3.1 Users, Frame 20"
+Upload,Tải lên,"Frame 20,"
+Upload at,Thời gian tải lên,3.6 Personal
+Upload by,Người tải lên,3.6 Personal
+Upload CV file,Tải CV lên,Personal Info Popup
+User Type,Loại Người Dùng,3.2 Education
+Users,Người dùng,Home Page/Users Page
+Users & Permission,Người dùng,1.1.2 Sidebar Extend
+Vietnamese,Việt,1.1.3 Dropdown profile
+View More,Xem thêm,Popup User Info
+Ward,Phường/Xã,Personal Info Popup
+Work Email,Email Công Việc,Add User
+Work Experience,Kinh Nghiệm Làm Việc,3.2 Education
+Working Location,Địa chỉ làm việc,Add Experience
