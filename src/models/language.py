@@ -1,5 +1,6 @@
 class Language:
-    def __init__(self, vietnamese, english, **kwargs):
+    def __init__(self, code, vietnamese, english, **kwargs):
+        self.code = code
         self.vn = vietnamese
         self.eng = english
 

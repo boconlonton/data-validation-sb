@@ -1,9 +1,7 @@
 import os
-import itertools
 import logging
 import json
 import argparse
-import sys
 from contextlib import ExitStack
 
 from marshmallow import ValidationError
@@ -40,8 +38,12 @@ for line in read_file(language_file):
     temp = validator.dump(LANGUAGE_NT(*line))
     try:
         obj = validator.load(temp)
-        dict_en.update({obj.key: obj.eng})
-        dict_vi.update({obj.key: obj.vn})
+        if obj.code:
+            key = obj.code
+        else:
+            key = obj.key.lower().replace(' ', '_')
+        dict_en.update({key: obj.eng})
+        dict_vi.update({key: obj.vn})
     except ValidationError as e:
         logger.warning(e.messages)
 

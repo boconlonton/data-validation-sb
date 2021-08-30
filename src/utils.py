@@ -17,7 +17,7 @@ def read_file(file_name):
 @contextmanager
 def open_file(f_name):
     print(f'opening {f_name}')
-    f = open(f_name, 'a')
+    f = open(f_name, 'w')
     try:
         yield f
     finally:
@@ -25,4 +25,4 @@ def open_file(f_name):
         f.close()
 
 
-LANGUAGE_NT = namedtuple('Language', 'english vietnamese remarks')
+LANGUAGE_NT = namedtuple('Language', 'code english vietnamese')
